@@ -8,3 +8,6 @@
 /Client/obj
 /Server/bin/Debug/netcoreapp3.0
 /Server/obj
+/Api/bin/Debug/net5.0
+/Client/bin/Debug/net5.0
+/Server/bin/Debug/net5.0
